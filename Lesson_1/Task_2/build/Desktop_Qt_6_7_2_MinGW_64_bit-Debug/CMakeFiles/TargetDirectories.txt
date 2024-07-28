@@ -1,0 +1,7 @@
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Task_2.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/university/NG/Lesson_1/Task_2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
